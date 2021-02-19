@@ -1,5 +1,6 @@
 body {
-  background: brown;
+  background: purple;
   color: white;
   text-align: center;
+  text-transform: capitalize;
 }
